@@ -1,3 +1,3 @@
-module github.com/flink-go/api
+module github.com/Brooke9537/flink-api
 
 go 1.14
